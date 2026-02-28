@@ -1,0 +1,13 @@
+langchain
+python-dotenv
+Flask-SQLAlchemy
+faiss-cpu
+boto3
+langchain-aws
+streamlit
+fastapi
+pytest
+transformers
+PyYAML
+langchain_community
+pypdf
